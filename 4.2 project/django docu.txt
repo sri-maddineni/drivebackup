@@ -1,0 +1,4 @@
+django
+virtual env : pip install virtualenv
+cd ve
+pip install django==2.0
