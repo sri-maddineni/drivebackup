@@ -1,0 +1,5 @@
+
+Internshala Trainings logo
+
+Learner Activity 1
+Till now we have learnt about the LinearLayoutManager and GridLayoutManager. Find out if there is any other layout manager, and how does it arrange the elements of the RecyclerView.
